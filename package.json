@@ -1,0 +1,16 @@
+{
+  "author": "Dan Kantor <dan@ex.fm>",
+  "name": "session-storage-json",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dankantor/session-storage-json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dankantor/session-storage-json.git"
+  },
+  "dependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
